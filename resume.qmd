@@ -1,89 +1,50 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dallin Slater
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Dallin Slater  
 
+---
 
-## Currently
+## Education  
+### Aspiring Business Management Major
+**Brigham Young University - Idaho** | Rexburg, ID  
+_June 2024 - Present_
 
-Standing on the shoulders of giants
+### High School Diploma  
+**Hillcrest High School** | Ammon, ID  
+_May 2021 - May 2021_  
+- Honors Student  
+- Member - National Honors Society, Ski Club  
 
-### Specialized in
+---
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+## Experience  
+### Secretary  
+**Peak Performance Physical Therapy** | Ammon, ID  
+_March 2019 - February 2020_  
+- Scheduled patient visits  
+- Scanned patient medical records for better accessibility and storage  
+- Cleaned equipment and workspace to provide a clean environment for patients and employees  
+- Worked independently and self-sufficiently  
+- Greeted patients upon arrival  
 
 
+### Lifeguard  
+**Ammon City** | Ammon, ID  
+_June 2018 - August 2018_  
+- Taught children swimming lessons  
+- Communicated effectively with children to improve their swimming abilities  
+- Collaborated with team members to ensure patron safety  
 
-## Awards
+---
 
-`2012`
-President, *Royal Society*, London, UK
+## Skills & Achievements  
+- Experienced with Python, Java, and lawn care  
+- Selected for Squire Mentoring by the principal to mentor freshmen  
+- Participated in Hillcrest Tennis Team and Hillcrest Swim Team  
+- Vice President for National Youth Leadership Training (Cedar Badge) for a crew of 25+ youth; directed camp planning and implementation  
+- Enjoys tennis, competitive swimming, recreational skiing, reading, card games, and drawing  
+- Eagle Scout
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
